@@ -1,11 +1,39 @@
 # Resume
 
-已有源码的项目地址：
+Experience 1:
 
-用spark实现基于词义分配的一词多义词向量算法(硕士论文)：https://github.com/whqwill/SenseAssignment
+    Internship and Master Thesis, Fraunhofer IAIS - Knowledge Discovery Group, Bonn, Germany
+    
+    Implementation polysemous word embedding algorithms on distributed computing framework.
+    
+    Language and tools: Scala, Java, Spark
 
-细粒度的图像分类（鸟类数据库）：https://github.com/whqwill/CaffeTask1
+    Project link:
+        https://github.com/whqwill/SenseAssignment
 
-分层次的分类算法：https://github.com/whqwill/CaffeTask2
+
+Experience 2:
+    
+    Student Assistant, RWTH Aachen University - Pattern Recognition Group, Aachen, Germany 
+
+    Normalizing images by geometry transformation. 
+    Defining and training hierarchical Convolutional Neural Networks for image classification. 
+    
+    Language and tools:  Python, C++, CUDA C, Caffe
+    
+    Project link:
+        https://github.com/whqwill/CaffeTask
+
+Experience 3:
+    
+    Student Assistant, RWTH Aachen University - Computer Vision Group, Aachen, Germany 
+
+    Seeking, Compiling, and Testing Computer Vision related algorithms. e.g Semi-Global Matching (about Depth Map),  Tracking by Detection (about DPM object detector and Kalman filter), , Normal Difference Operator on point clouds
+
+    Language and tools: C++, OpenCV
+
+    Project link:
+        https://github.com/whqwill/vision_group
+
 
 
